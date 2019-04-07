@@ -6,6 +6,6 @@ while(tmp>0):
 	sum+=c**3
 	tmp//=10
 if(N==sum):
-	print("Yes")
+	print("yes")
 else :
-	print("No")
+	print("no")
